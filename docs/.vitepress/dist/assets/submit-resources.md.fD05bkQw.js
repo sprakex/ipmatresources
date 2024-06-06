@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.C_RYUvky.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"submit-resources.md","filePath":"submit-resources.md"}'),r={name:"submit-resources.md"};function o(a,c,n,i,m,u){return s(),t("div")}const d=e(r,[["render",o]]);export{_ as __pageData,d as default};
