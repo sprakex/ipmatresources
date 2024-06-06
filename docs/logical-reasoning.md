@@ -1,1 +1,1 @@
-# LR
+# 🧩 Logical Reasoning

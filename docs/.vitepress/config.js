@@ -3,10 +3,9 @@ export default {
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
-        { text: 'Submit Resources', link: '/submit-resources.md' },
         { text: 'Reddit', link: 'https://www.reddit.com/r/IPMATtards/' }
       ],
-      siteTitle: 'IPMAT Resources',
+      siteTitle: '🌳 IPMAT Resources',
       sidebar: [
         {
           text: 'Resources',

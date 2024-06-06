@@ -2,16 +2,13 @@
 layout: home
 
 hero:
-  name: FIR
-  text: freeipmatresources
+  name: IPMAT Resources
+  text: exam-essentials
   tagline: For all my self-learners out there
   actions:
     - theme: brand
       text: Get Started
       link: /quantitative-ability.md
-    - theme: alt
-      text: Submit Resources
-      link: /submit-resources.md
 features:
   - icon: 🔢
     title: Quantitative Ability
@@ -23,5 +20,5 @@ features:
     link: /verbal-ability.md
   - icon: 🧩
     title: Logical Reasoning
-    details: for you must learn how to reason
+    details: for you must learn how to reason??
     link: /logical-reasoning.md
