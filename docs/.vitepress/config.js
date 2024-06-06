@@ -1,4 +1,5 @@
 export default {
+  base: "/ipmatresources",
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
