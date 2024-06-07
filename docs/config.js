@@ -1,7 +1,7 @@
 export default {
   title: 'IPMAT Resources',
   base: "/ipmatresources",
-  srcDir: './',
+  srcDir: './public',
   head: [['link', { rel: 'icon', href: './favicon.ico' }]],
 
     themeConfig: {
