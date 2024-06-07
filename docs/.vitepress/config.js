@@ -1,10 +1,18 @@
 export default {
+  title: 'IPMAT Resources',
   base: "/ipmatresources",
+  srcDir: './',
+  head: [['link', { rel: 'icon', href: './favicon.ico' }]],
+
     themeConfig: {
-      nav: [
+      
+      nav: [  
         { text: 'Home', link: '/' },
         { text: 'Reddit', link: 'https://www.reddit.com/r/IPMATtards/' }
       ],
+      search: {
+        provider: 'local'
+      },
       siteTitle: '🌳 IPMAT Resources',
       sidebar: [
         {

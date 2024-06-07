@@ -1,9 +1,13 @@
 ---
+title: Home
 layout: home
 
 hero:
   name: IPMAT Resources
   text: exam-essentials
+  image:
+    src: './logo.png'
+    alt: 'Tree'
   tagline: For all my self-learners out there
   actions:
     - theme: brand

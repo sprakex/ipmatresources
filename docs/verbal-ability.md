@@ -8,3 +8,5 @@
 - [Vocabulary Booster for The CAT](https://drive.google.com/file/d/1lhc5BthS-VVyFmJZl8CIXMqpkTl2DFhK/view?usp=drive_link) ~Sidhart Balakrishna
 - [1000 RC's](https://drive.google.com/file/d/1ha0JtsELgl32CezF46jQtW633E9qF3eW/view?usp=drive_link) ~unknown
 - [Verbal Ability for the CAT](https://drive.google.com/file/d/1UK7erDQ5SvzIu-rKWZ1V7-zvM_9x587h/view?usp=drive_link) ~Sujit Kumar
+- [Reading Comprehension for CAT](https://drive.google.com/file/d/1Op6dbE6HUPB3QZW9vo_HrtH7NvFIGsHz/view?usp=drive_link) ~Sujit Kumar
+- [Word Power Made Easy](https://drive.google.com/file/d/1qocsr1sBqWdXxT6gnBboitX82S2EOhj6/view?usp=drive_link) ~Norman Lewis
