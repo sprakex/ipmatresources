@@ -1,3 +1,4 @@
+
 export default {
   title: 'IPMAT Resources',
   base: "/ipmatresources",
@@ -6,6 +7,10 @@ export default {
   head: [['link', { rel: 'icon', href: './favicon.ico' }]],
 
     themeConfig: {
+
+      footer: {
+        message: 'Made with ❤️ by <a href="https://www.reddit.com/user/sprakex/">sprakex</a>'
+      },
       
       nav: [  
         { text: 'Home', link: '/' },
