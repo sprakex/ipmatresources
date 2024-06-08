@@ -1,6 +1,6 @@
 # 🔢 Quantitative Ability
 ##
-::: danger Advisory
+::: tip Note
 This is not a recommendation for specific materials; these are commonly used resources.
 :::
 
@@ -31,8 +31,11 @@ This is not a recommendation for specific materials; these are commonly used res
 - [Permutation and Combination](https://drive.google.com/drive/folders/12hGB-mzoV33mIyaGqBpyYmKXZMM3UDHu?usp=drive_link) ~Lokesh Agarwal
 - [Time, Speed and Distance](https://drive.google.com/drive/folders/12gKRBTAsD1-vEUozbdu3G7m3-AaDh-eP?usp=drive_link) ~Lokesh Agarwal
 
-## Youtube Channels
+## Youtube Channels / Specific Playlists
 - [Rodha](https://www.youtube.com/@Rodha)
 - [MBA Pathshala](https://www.youtube.com/@mba_pathshala)
 - [Takshzhila](https://www.youtube.com/@_takshzila)
-
+- [Arithmetic Part 1 (Playlist)](https://m.youtube.com/playlist?list=PLgdxDqtv4Gt-i5Z8m_LIe25WMpuTOncfG&si=vpQ9pYy73j21sbor) ~Anastasis Academy
+- [Arithmetic Part 2 (Playlist)](https://m.youtube.com/playlist?list=PLgdxDqtv4Gt91BVU355IrbiiTIC8-db4x&si=0aSi5CqRnlSRA4p9) ~Anastasis Academy
+- [Algebra & Permutation and Combination (Playlist)](https://m.youtube.com/playlist?list=PLgdxDqtv4Gt91BVU355IrbiiTIC8-db4x&si=0aSi5CqRnlSRA4p9) ~Anastasis Academy
+- [Geometry (Playlist)](https://m.youtube.com/playlist?list=PLgdxDqtv4Gt-8nj90SZs0JYLEIfil2ToP&si=VHF_G6CN9I5eGu8A) ~Anastasis Academy

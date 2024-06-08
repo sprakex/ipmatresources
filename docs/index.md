@@ -16,16 +16,20 @@ hero:
 features:
   - icon: 🔢
     title: Quantitative Ability
-    details: for you must learn how to add
+    details: Thou must learn to add, for it is oft needed.
     link: /quantitative-ability.md
   - icon: 🗣️
     title: Verbal Ability
-    details: for you must learn how to speak
+    details: Thou must learn speech, for it is greatly valued.
     link: /verbal-ability.md
   - icon: 🧩
     title: Logical Reasoning
-    details: for you must learn how to reason??
+    details: Thou must learn to reason, for it is thy wisdom.
     link: /logical-reasoning.md
+  - icon: 📃
+    title: PYQs / Mock Tests
+    details: Thou must prove thyself, for it is thy trial.
+    link: /pyq-mock.md
 ---
 <style>
 :root {

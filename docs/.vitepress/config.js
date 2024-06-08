@@ -21,6 +21,7 @@ export default {
             { text: '🔢 Quantitative Ability', link: '/quantitative-ability.md' },
             { text: '🗣️ Verbal Ability', link: '/verbal-ability.md' },
             { text: '🧩 Logical Reasoning', link: '/logical-reasoning.md' },
+            { text: '📃 PYQs / Mock Tests', link: '/pyq-mock' },
           ]
         }
       ]
