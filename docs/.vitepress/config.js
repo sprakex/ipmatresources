@@ -1,6 +1,7 @@
 export default {
   title: 'IPMAT Resources',
   base: "/ipmatresources",
+  description: 'Resources for IPMAT',
   drSrc: './',
   head: [['link', { rel: 'icon', href: './favicon.ico' }]],
 
