@@ -24,7 +24,7 @@ This is not a recommendation for specific materials; these are commonly used res
 ## Question Banks
 - [200 Important Quantitative Aptitude Questions](https://drive.google.com/file/d/1NLRLZu_CU38fNfyWDTy9y8I2dW1FLjZX/view?usp=drive_link)
 - [Algebra](https://drive.google.com/drive/folders/12Vd4pH_acS87V9EXcmo_ckpdsetb4VQk?usp=drive_link) ~Lokesh Agarwal
-- [Arithmetic](https://drive.google.com/drive/folders/12Vd4pH_acS87V9EXcmo_ckpdsetb4VQk?usp=drive_link) ~Lokesh Agarwal
+- [Arithmetic](https://drive.google.com/drive/folders/12c2sOVvgJ0remBVKvnAnzHYy7YAGfmIR?usp=drive_link) ~Lokesh Agarwal
 - [Geometry](https://drive.google.com/drive/folders/12h8en8Hea2zxZ-ew97p6ESG6kNgru3nc?usp=drive_link) ~Lokesh Agarwal
 - [Miscellaneous](https://drive.google.com/drive/folders/12dJ1oj7Sk3b_kFFYdWjsAKVFQv_nDhtR?usp=drive_link) ~Lokesh Agarwal
 - [Numbers](https://drive.google.com/drive/folders/12eGDJKecZX36Zi54XGGV8wjJFHxT19H7?usp=drive_link) ~Lokesh Agarwal
