@@ -1,17 +1,17 @@
 # Contact Me
 
-##
-Thank you for visiting my website! If you have any questions, feedback, or just want to connect, feel free to reach out. I am always open to discussions, collaborations, and opportunities.
-Get in Touch
+Thank you for visiting IPMAT Resources! I value your feedback, suggestions, and inquiries. Here's how you can get in touch with me:
 
-Email:
-admin@sprakex.xyz  
+## Contact Information
 
-You can also send me a message directly on my Reddit account.
+- **Email:** [admin@sprakex.xyz](mailto:admin@sprakex.xyz)
 
-[Reddit](https://www.reddit.com/user/sprakex/)
+## Forums and Community
 
-Looking forward to hearing from you!
+Join the community forum to discuss preparation strategies, ask questions, and share resources with fellow IPMAT aspirants:
 
-Warm regards,
-sprakex
+[Community Forum](https://www.reddit.com/r/IPMATtards/)
+
+---
+
+Thank you for being a part of the IPMAT Resources community! We're all here to support you in your journey to success.
