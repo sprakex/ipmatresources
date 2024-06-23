@@ -1,4 +1,5 @@
 
+
 export default {
   title: 'IPMAT Resources',
   description: 'Resources for IPMAT',
@@ -32,3 +33,4 @@ export default {
       ]
     }
   }
+
