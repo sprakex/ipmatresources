@@ -32,7 +32,7 @@ This is not a recommendation for specific materials; these are commonly used res
 - [Numbers](https://drive.google.com/drive/folders/12eGDJKecZX36Zi54XGGV8wjJFHxT19H7?usp=drive_link) ~Lokesh Agarwal
 - [Permutation and Combination](https://drive.google.com/drive/folders/12hGB-mzoV33mIyaGqBpyYmKXZMM3UDHu?usp=drive_link) ~Lokesh Agarwal
 - [Time, Speed and Distance](https://drive.google.com/drive/folders/12gKRBTAsD1-vEUozbdu3G7m3-AaDh-eP?usp=drive_link) ~Lokesh Agarwal
-- [Some More Practice Sheets](https://drive.google.com/drive/folders/1gtMpt6mXwgP7pzeh7kzfuC_lTTZmL4eb?usp=drive_link)
+
 
 ## Youtube Channels / Specific Playlists
 - [Rodha](https://www.youtube.com/@Rodha)
