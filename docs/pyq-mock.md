@@ -28,3 +28,6 @@ Some websites require you to sign up in order to access their free mock exams.
 - [My Prep Way](https://exam.myprepway.in/testapp/91362)
 - [Time](https://www.time4education.com/freeaimipm/aimipmdemohome.asp0)
 - [Test Funda](https://lms.testfunda.com/TestCentre/bba/ipm-(indore))
+
+## PYQs + Sample Mocks PDFs
+- [Google Drive Folder](https://drive.google.com/drive/folders/15xVoTepGpbebOtzB6pM61OQ45G4BsyBX?usp=drive_link)

@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Get Started
       link: /quantitative-ability.md
+    - theme: alt
+      text: Contact Me
+      link: /fbs.md
 features:
   - icon: 🔢
     title: Quantitative Ability
@@ -29,7 +32,7 @@ features:
   - icon: 📃
     title: PYQs / Mock Tests
     details: Thou must prove thyself, for it is thy trial.
-    link: /pyq-mock.md
+    link: /pyq-mock.md  
 ---
 <style>
 :root {

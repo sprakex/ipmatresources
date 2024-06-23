@@ -1,6 +1,8 @@
 # 🗣️ Verbal Ability
 
 ## Books/PDFs
+- [⭐ How to Read Better and Faster](https://iimranchiacin-my.sharepoint.com/:b:/g/personal/ashish_ranjani22_iimranchi_ac_in/EaOcwebxt4dHqwsMDXlP7-QB1B3qKda5N-NUplUbwQH9Jg?e=zkiFof) ~Norman Lewis
+- [⭐ Better English](https://iimranchiacin-my.sharepoint.com/:b:/g/personal/ashish_ranjani22_iimranchi_ac_in/ESew-01ZPqJClhB-US_9OQIBJ6c7_ZBjXSGPCd4SawujSA?e=0omWcO) ~Norman Lewis
 - [How to Prepare for Verbal Ability and Reading Comprehension for CAT](https://drive.google.com/file/d/1qBtdjFsit-0fo861I6qU2hdzJ4lFpgQH/view?usp=drive_link) ~Arun Sharma
 - [Crack the IIM Indore IPM Verbal Ability](https://drive.google.com/file/d/1iKixCuvmMK5xMJbnmAgtlGWgniUug2CN/view?usp=drive_link) ~Pearson
 - [SSC English](https://drive.google.com/file/d/1GIpBxAuv4jzamH5OA5oyM_4RQAHO3tJc/view?usp=drive_link) ~Pearson
@@ -16,6 +18,7 @@
 - [3500 Basic Word List in Hindi](https://drive.google.com/file/d/1i8XSuTJtEUzK2z3jYhSEwDvakvaGHIOl/view?usp=drive_link) ~Barron
 
 ## Helpful Websites
+- [⭐ WhatsApp Group for Daily Newspapers](https://chat.whatsapp.com/IRDurMzppAmIPoh6dduyJJ)
 - [Vocabulary.com](https://www.vocabulary.com/)
 - [Aeon Essays](https://aeon.co/essays)
 - [The Baffler](https://thebaffler.com/)
@@ -26,6 +29,7 @@
 - [JSTORdaily](https://daily.jstor.org/)
 - [NewYork Times Magazine](https://www.nytimes.com/international/section/magazine)
 - [Idiomconnection.com](https://idiomconnection.com/)
+- [The Economist](https://www.economist.com/)
 
 ## Good Reads
 - [Ikigai](https://drive.google.com/file/d/1SPL9YH_J3b0GKOOWvOZAQbZnYBFtlOsz/view?usp=drive_link) ~Francesc Miralles and Hector Garcia
