@@ -7,6 +7,8 @@ Some websites require you to sign up in order to access their free mock exams.
 
 ## PYQs
 
+- [Indore 2019](https://www.afterboards.in/exam/ipmatindore0019)
+- [Indore 2020](https://www.afterboards.in/exam/ipmatindore0020)
 - [Indore 2021](https://www.afterboards.in/exam/ipmatindore0021)
 - [Indore 2022](https://www.afterboards.in/exam/ipmatindore0022)
 - [Indore 2023](https://www.afterboards.in/exam/ipmatindore0023)
