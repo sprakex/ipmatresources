@@ -14,7 +14,7 @@ These are CAT level resources, not all of it is relevant to IPMAT.
 - [A New Approach to Reasoning - Verbal, Non Verbal and Analytical](https://drive.google.com/file/d/1aDXSxNmaX-5LKkwAt93IOmE35OcsS4NN/view?usp=drive_link) ~Arihant
 - [Logical Reasoning and Data Interpretation for CAT](https://drive.google.com/file/d/1DT39r2VI5yt4HNXF5CBXW0Gjofs3Ui1p/view?usp=drive_link) ~Pearson
 - [501 Challenging Logic and Reasoning Problems](https://drive.google.com/file/d/1Q-3VtBiCA_RH1MZMOW1DSMA35jRtp4Op/view)
-- [Logical Reasoning](https://drive.google.com/file/d/1uatS1zvXnvSjZqXhqffurTyd0V4-yofp/view?usp=drive_link) ~Takshzilla
+- [Logical Reasoning](https://drive.google.com/file/d/1iZ1Qy5ZtSS--NgXWQ0q-WNVSKWw9ljGG/view?usp=drive_link) ~Takshzilla
 
 ## Playlists / Videos
 - [Logical Reasoning and Data Interpretation (Playlist)](https://youtube.com/playlist?list=PLG4bwc5fquzhDp8eqRym2Ma1ut10YF0Ea&si=dZPo9-mG7lwC-D-x) ~Anastasis Academy

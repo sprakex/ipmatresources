@@ -19,8 +19,8 @@ This is not a recommendation for specific materials; these are commonly used res
 - [Permutation and Combination, Probability](https://drive.google.com/file/d/1Nz3hF5YP2PxWi7unYvSWtrd_SAkCFrO7/view?usp=drive_link) ~Takshzila
 - [100 Shortcuts to Crack Quantitative Aptitiude](https://drive.google.com/file/d/1Nz3hF5YP2PxWi7unYvSWtrd_SAkCFrO7/view?usp=drive_link) ~CN Pragadeeswara Prabhu
 - [Quants 50 Important Formulae](https://drive.google.com/file/d/1p_0D5WHeE1ODI791OfaQ9HlGQAL76Io1/view?usp=drive_link) ~CatSyllabus.com
-- [Formula Book Unacademy](https://drive.google.com/file/d/1EBKf-ALH5jCfjr8D25j7nSqmE9zOCm1I/view?usp=drive_link) ~Arun Sharma
-- [Useful Formulae for IPMAT](https://drive.google.com/file/d/1MJAh57M8Ygy3SSRJeMwvn2Zk3QOCu2ln/view?usp=drive_link) ~iQuanta
+- [Formula Book Unacademy](https://drive.google.com/file/d/1yC1Jm2Rhj_NQtqIBzUynmksYR4-Qf5y6/view?usp=drive_link) ~Arun Sharma
+- [Useful Formulae for IPMAT](https://drive.google.com/file/d/1Ve5A9jQa1_wBhS6106FKJTIbClm4s7k9/view?usp=drive_link) ~iQuanta
 
 
 ## Question Banks

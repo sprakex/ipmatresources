@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a3 as o}from"./chunks/framework.D5qxx6u8.js";const m=JSON.parse('{"title":"Contact Me","description":"","frontmatter":{},"headers":[],"relativePath":"fbs.md","filePath":"fbs.md"}'),r={name:"fbs.md"},n=o("",8),s=[n];function c(i,d,p,_,l,f){return t(),a("div",null,s)}const u=e(r,[["render",c]]);export{m as __pageData,u as default};
