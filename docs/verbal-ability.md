@@ -8,14 +8,14 @@
 - [SSC English](https://drive.google.com/file/d/1GIpBxAuv4jzamH5OA5oyM_4RQAHO3tJc/view?usp=drive_link) ~Pearson
 - [Verbal Ability and Reading Comprehension for CAT](https://drive.google.com/file/d/1iKixCuvmMK5xMJbnmAgtlGWgniUug2CN/view?usp=drive_link) ~Pearson
 - [Vocabulary Booster for The CAT](https://drive.google.com/file/d/1lhc5BthS-VVyFmJZl8CIXMqpkTl2DFhK/view?usp=drive_link) ~Sidhart Balakrishna
-- [1000 RC's](https://drive.google.com/file/d/1ha0JtsELgl32CezF46jQtW633E9qF3eW/view?usp=drive_link) ~unknown
-- [Verbal Ability for the CAT](https://drive.google.com/file/d/1UK7erDQ5SvzIu-rKWZ1V7-zvM_9x587h/view?usp=drive_link) ~Sujit Kumar
-- [Reading Comprehension for CAT](https://drive.google.com/file/d/1Op6dbE6HUPB3QZW9vo_HrtH7NvFIGsHz/view?usp=drive_link) ~Sujit Kumar
-- [Word Power Made Easy](https://drive.google.com/file/d/1qocsr1sBqWdXxT6gnBboitX82S2EOhj6/view?usp=drive_link) ~Norman Lewis
-- [General English](https://drive.google.com/file/d/1wc_1SaZJjw2Irkp3CYSmGkCj57uGgt_e/view?usp=drive_link) ~Dr. B. B. Jain
-- [Complete Guide to GRE Vocabulary](https://drive.google.com/file/d/1wIDQ_KNQoERfIshFKtuaes1TM3xEVjY4/view?usp=drive_link) ~Magoosh
-- [800 Essential Words for GRE](https://drive.google.com/file/d/1w5jZBviE2BZtMUUgpLJqJwXukmBiE0Fm/view?usp=drive_link) ~Barron
-- [3500 Basic Word List in Hindi](https://drive.google.com/file/d/1i8XSuTJtEUzK2z3jYhSEwDvakvaGHIOl/view?usp=drive_link) ~Barron
+- [1000 RC's](https://drive.google.com/file/d/1v4GfQNGyMgtqydikiKKTrSYJHK7Uj8EI/view?usp=drive_link) ~unknown
+- [Verbal Ability for the CAT](https://drive.google.com/file/d/1ZhlQo8qlclr4XwBzEK0tpqDMZ2UXJr_S/view?usp=sharing) ~Sujit Kumar
+- [Reading Comprehension for CAT](https://drive.google.com/file/d/18SCDRUDVxMJTWyavrZo18A5Minf4pDTs/view?usp=sharing) ~Sujit Kumar
+- [Word Power Made Easy](https://drive.google.com/file/d/1GLUliAg4pgx7bqMIJeXknOuqbtP_vkCY/view) ~Norman Lewis
+- [General English](https://drive.google.com/file/d/16iHLYngsVmagPaE__iYnpM1B3hL-yK72/view?usp=drive_link) ~Dr. B. B. Jain
+- [Complete Guide to GRE Vocabulary](https://drive.google.com/file/d/1Ju8my4sfb3k8HZHeIfhb7HbunkItS7y8/view?usp=sharing) ~Magoosh
+- [800 Essential Words for GRE](https://drive.google.com/file/d/1TSPTuQmVfdnvSt9RikH38FJ2EGffZW_9/view?usp=sharing) ~Barron
+- [3500 Basic Word List in Hindi](https://drive.google.com/file/d/1mKOC4xkbEu4tKA0t6r8-uvrBcMQ_bZ9w/view?usp=sharing) ~Barron
 
 ## Helpful Websites
 - [⭐ WhatsApp Group for Daily Newspapers](https://chat.whatsapp.com/IRDurMzppAmIPoh6dduyJJ)
@@ -32,7 +32,7 @@
 - [The Economist](https://www.economist.com/)
 
 ## Good Reads
-- [Ikigai](https://drive.google.com/file/d/1SPL9YH_J3b0GKOOWvOZAQbZnYBFtlOsz/view?usp=drive_link) ~Francesc Miralles and Hector Garcia
-- [The Alchemist](https://drive.google.com/file/d/1rY8BjF32u6-NZduRbtnq5KUhlXPYjT8q/view?usp=drive_link) ~Paulo Coelho
-- [Doglapan](https://drive.google.com/file/d/1648TTobDEIvpDcwbKrauECpVDKoxDnZ8/view?usp=drive_link) ~Ashneer Grover
-- [Leapfrogging to Pole-Vaulting](https://drive.google.com/file/d/11nAkf9D3qgrv6I0Zl--3Vf2Z_LHj6PqA/view?usp=drive_link) ~Ratan Tata
+- [Ikigai](https://drive.google.com/file/d/1bffLM_1N_VTWRMbQ0RdhT1jejZBIg_yV/view?usp=drive_link) ~Francesc Miralles and Hector Garcia
+- [The Alchemist](https://drive.google.com/file/d/1Inf-oZvMhHTCusvn2JeBI41j--Fj4ZVP/view?usp=drive_link) ~Paulo Coelho
+- [Doglapan](https://drive.google.com/file/d/18np7w0dG90E5mSYpVmpSK_ZAH-544P0B/view?usp=drive_link) ~Ashneer Grover
+- [Leapfrogging to Pole-Vaulting](https://drive.google.com/file/d/1kNZxiJRAKtOKRENcJs_GtFEAfqH5TcpD/view?usp=drive_link) ~Ratan Tata
