@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-
+markdownStyles: true
 hero:
   name: IPMAT Resources
   text: exam-essentials
@@ -32,26 +32,26 @@ features:
   - icon: 📃
     title: PYQs / Mock Tests
     details: Thou must prove thyself, for it is thy trial.
-    link: /pyq-mock.md  
+    link: /pyq-mock.md
 ---
 <style>
 :root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5af282 30%, #008022);
+  --vp-home-hero-name-color: transparent !important;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5af282 30%, #008022) !important;
 
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, rgb(92, 156, 36) 0%,rgb(95, 136, 40) 100%);
-  --vp-home-hero-image-filter: blur(44px);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, rgb(92, 156, 36) 0%,rgb(95, 136, 40) 100%) !important;
+  --vp-home-hero-image-filter: blur(44px) !important;
 }
 
 @media (min-width: 320px) {
   :root {
-    --vp-home-hero-image-filter: blur(56px);
+    --vp-home-hero-image-filter: blur(56px) !important;
   }
 }
 
 @media (min-width: 480px) {
   :root {
-    --vp-home-hero-image-filter: blur(68px);
+    --vp-home-hero-image-filter: blur(68px) !important;
   }
 }
 </style>
