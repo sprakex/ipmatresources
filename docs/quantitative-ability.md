@@ -8,30 +8,30 @@ This is not a recommendation for specific materials; these are commonly used res
 - [How to Prepare for Quantitative Aptitude for CAT](https://drive.google.com/file/d/1U2JCjeAevVfKePzuahKiQqBEN7jTaCkb/view?usp=drive_link) ~Arun Sharma
 - [Quantitative Aptitude](https://drive.google.com/file/d/1DTa39YnUUMs4tqSMJzXfuhV0g1GnLQ8p/view?usp=drive_link) ~R S Agarwal
 - [Quantitative Aptitude for CAT](https://drive.google.com/file/d/1DTa39YnUUMs4tqSMJzXfuhV0g1GnLQ8p/view?usp=drive_link) ~Pearson
-- [Quantitative Aptitude](https://drive.google.com/file/d/1A3FRN71kfYuxnflk8FQ8bVRIZf2i52ti/view?usp=drive_link) ~Ramandeep Singh
+- [Quantitative Aptitude](https://drive.google.com/file/d/19UpYSHVkjHaj61AodcVixKf30xwLGnoR/view?usp=drive_link) ~Ramandeep Singh
 - [Quantitative Aptitude](https://drive.google.com/file/d/1WXDygMOaA2SkWOzHBmH01T_Fo4gNC1oW/view?usp=drive_link) ~Quantum CAT
 - [SSC Mathematics](https://drive.google.com/file/d/1bAvLmsN6N2Ye5Qmla7CUN02ATVcM1QC4/view?usp=drive_link) ~Pearson
-- [Arithmetic](https://drive.google.com/file/d/1XzYHn_jWriIzM6-Lj88GpsuV1RY8-yg0/view?usp=drive_link) ~Takshzila
-- [Algebra](https://drive.google.com/file/d/1SFXJGQHR_HLiZczEYW6uwFpfcMtQNDvo/view?usp=drive_link) ~Takshzila
-- [Number Systems](https://drive.google.com/file/d/15fWiA5eigkCMRWYhKQfzvOL2QTXYscfS/view?usp=drive_link) ~Takshzila
-- [Geometry](https://drive.google.com/file/d/1qkewleUwrlwNHc8XiLUPXQcyn5MdBagI/view?usp=drive_link) ~Takshzila
-- [Miscellaneous Quant Topics](https://drive.google.com/file/d/1CyrP8brncLy8v9wjnXtasaNLm4eZdLp-/view?usp=drive_link) ~Takshzila
-- [Permutation and Combination, Probability](https://drive.google.com/file/d/1Nz3hF5YP2PxWi7unYvSWtrd_SAkCFrO7/view?usp=drive_link) ~Takshzila
-- [100 Shortcuts to Crack Quantitative Aptitiude](https://drive.google.com/file/d/1Nz3hF5YP2PxWi7unYvSWtrd_SAkCFrO7/view?usp=drive_link) ~CN Pragadeeswara Prabhu
-- [Quants 50 Important Formulae](https://drive.google.com/file/d/1p_0D5WHeE1ODI791OfaQ9HlGQAL76Io1/view?usp=drive_link) ~CatSyllabus.com
+- [Arithmetic](https://drive.google.com/file/d/1RVeNGfQsVNfef7kszxy7P9a3Io9l4Q8T/view?usp=drive_link) ~Takshzila
+- [Algebra](https://drive.google.com/file/d/1wNmRzxrY1HfpBVGocsDXA1Gwd26vRAP6/view?usp=drive_link) ~Takshzila
+- [Number Systems](https://drive.google.com/file/d/1VWoli_pagJ81TFHblCHGa_9NxJjlTq9m/view?usp=) ~Takshzila
+- [Geometry](https://drive.google.com/file/d/15cs39GhGVjCrc4m_mGKKnwCBurZE567i/view?usp=drive_link) ~Takshzila
+- [Miscellaneous Quant Topics](https://drive.google.com/file/d/1H7p7Z2aYjsu_fUgyYkABgtiJh1W10lm7/view?usp=drive_link) ~Takshzila
+- [Permutation and Combination, Probability](https://drive.google.com/file/d/1lAnG_se2z_qndq2JDBdi3o9i3p_CZUP2/view?usp=drive_link) ~Takshzila
+- [100 Shortcuts to Crack Quantitative Aptitiude](https://drive.google.com/file/d/1AGS4PKG1PYZjYOD_nvybuG3F2CJ61qja/view?usp=drive_link) ~CN Pragadeeswara Prabhu
+- [Quants 50 Important Formulae](https://drive.google.com/file/d/1sA3RKWBCQx5ba7Me1mCevcA1U_W5cqZu/view?usp=drive_link) ~CatSyllabus.com
 - [Formula Book Unacademy](https://drive.google.com/file/d/1yC1Jm2Rhj_NQtqIBzUynmksYR4-Qf5y6/view?usp=drive_link) ~Arun Sharma
 - [Useful Formulae for IPMAT](https://drive.google.com/file/d/1Ve5A9jQa1_wBhS6106FKJTIbClm4s7k9/view?usp=drive_link) ~iQuanta
 
 
 ## Question Banks
-- [200 Important Quantitative Aptitude Questions](https://drive.google.com/file/d/1NLRLZu_CU38fNfyWDTy9y8I2dW1FLjZX/view?usp=drive_link) ~BankExamsToday
-- [Algebra](https://drive.google.com/drive/folders/12Vd4pH_acS87V9EXcmo_ckpdsetb4VQk?usp=drive_link) ~Lokesh Agarwal
-- [Arithmetic](https://drive.google.com/drive/folders/12c2sOVvgJ0remBVKvnAnzHYy7YAGfmIR?usp=drive_link) ~Lokesh Agarwal
-- [Geometry](https://drive.google.com/drive/folders/12h8en8Hea2zxZ-ew97p6ESG6kNgru3nc?usp=drive_link) ~Lokesh Agarwal
-- [Miscellaneous](https://drive.google.com/drive/folders/12dJ1oj7Sk3b_kFFYdWjsAKVFQv_nDhtR?usp=drive_link) ~Lokesh Agarwal
-- [Numbers](https://drive.google.com/drive/folders/12eGDJKecZX36Zi54XGGV8wjJFHxT19H7?usp=drive_link) ~Lokesh Agarwal
-- [Permutation and Combination](https://drive.google.com/drive/folders/12hGB-mzoV33mIyaGqBpyYmKXZMM3UDHu?usp=drive_link) ~Lokesh Agarwal
-- [Time, Speed and Distance](https://drive.google.com/drive/folders/12gKRBTAsD1-vEUozbdu3G7m3-AaDh-eP?usp=drive_link) ~Lokesh Agarwal
+- [200 Important Quantitative Aptitude Questions](https://drive.google.com/file/d/1cTx6OvTSmHv4pHpNRnsbi5Jcwkfx1tDL/view?usp=drive_link) ~BankExamsToday
+- [Algebra](https://drive.google.com/drive/folders/1-RM3NEWBpVpFC-GHr9BcZKTGaZ05Qwu9?usp=drive_link) ~Lokesh Agarwal
+- [Arithmetic](https://drive.google.com/drive/folders/1j8SGzuWGC6Wg52rKgWF4HV50cAPvtTI4?usp=drive_link) ~Lokesh Agarwal
+- [Geometry](https://drive.google.com/drive/folders/1qwuPrWdk8cuSCLYL_VzeET4_1IzFplY4?usp=drive_link) ~Lokesh Agarwal
+- [Miscellaneous](https://drive.google.com/drive/folders/15LuJuendGhbm8LkrutJxysQcYtH--Bs7?usp=drive_link) ~Lokesh Agarwal
+- [Numbers](https://drive.google.com/drive/folders/11vQ2FnowHflIcvx_TTebQ--6_XEfQohy?usp=drive_link) ~Lokesh Agarwal
+- [Permutation and Combination](https://drive.google.com/drive/folders/1TLgQin-Z6tbg3H3W-No6XY6d7uozwbn7?usp=drive_link) ~Lokesh Agarwal
+- [Time, Speed and Distance](https://drive.google.com/drive/folders/1Cr4uqgNdvw-yWg2J1DAW1_kN7KM2HUBN?usp=drive_link) ~Lokesh Agarwal
 
 
 ## Youtube Channels / Specific Playlists
