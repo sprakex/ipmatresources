@@ -4,7 +4,7 @@ Thank you for visiting IPMAT Resources! I value your feedback, suggestions, and 
 
 ## Contact Information
 
-- **Email:** [admin@sprakex.xyz](mailto:admin@sprakex.xyz)
+- **Email:** [sprakex@gmail.com](mailto:sprakex@gmail.com)
 
 ## Forums and Community
 
