@@ -18,6 +18,7 @@
 - [3500 Basic Word List in Hindi](https://drive.google.com/file/d/1mKOC4xkbEu4tKA0t6r8-uvrBcMQ_bZ9w/view?usp=sharing) ~Barron
 
 ## Helpful Websites
+- [⭐ Daily RC's (AfterBoards)](https://www.afterboards.in/dailyRC)
 - [⭐ WhatsApp Group for Daily Newspapers](https://chat.whatsapp.com/IRDurMzppAmIPoh6dduyJJ)
 - [Vocabulary.com](https://www.vocabulary.com/)
 - [Aeon Essays](https://aeon.co/essays)
