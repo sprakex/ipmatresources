@@ -36,4 +36,4 @@
 - [Ikigai](https://drive.google.com/file/d/1bffLM_1N_VTWRMbQ0RdhT1jejZBIg_yV/view?usp=drive_link) ~Francesc Miralles and Hector Garcia
 - [The Alchemist](https://drive.google.com/file/d/1Inf-oZvMhHTCusvn2JeBI41j--Fj4ZVP/view?usp=drive_link) ~Paulo Coelho
 - [Doglapan](https://drive.google.com/file/d/18np7w0dG90E5mSYpVmpSK_ZAH-544P0B/view?usp=drive_link) ~Ashneer Grover
-- [Leapfrogging to Pole-Vaulting](https://drive.google.com/file/d/1kNZxiJRAKtOKRENcJs_GtFEAfqH5TcpD/view?usp=drive_link) ~Ratan Tata
+- [Leapfrogging to Pole-Vaulting](https://drive.google.com/file/d/1kNZxiJRAKtOKRENcJs_GtFEAfqH5TcpD/view?usp=drive_link) ~Raghunath Mashelkar and Ravi Pandit
