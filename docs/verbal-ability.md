@@ -1,8 +1,8 @@
 # 🗣️ Verbal Ability
 
 ## Books/PDFs
-- [⭐ How to Read Better and Faster](https://iimranchiacin-my.sharepoint.com/:b:/g/personal/ashish_ranjani22_iimranchi_ac_in/EaOcwebxt4dHqwsMDXlP7-QB1B3qKda5N-NUplUbwQH9Jg?e=zkiFof) ~Norman Lewis
-- [⭐ Better English](https://iimranchiacin-my.sharepoint.com/:b:/g/personal/ashish_ranjani22_iimranchi_ac_in/ESew-01ZPqJClhB-US_9OQIBJ6c7_ZBjXSGPCd4SawujSA?e=0omWcO) ~Norman Lewis
+- [⭐ How to Read Better and Faster](https://drive.google.com/file/d/1P_ZPfMn3K9YMx4JVYT8n7vtOoWJR8RxO/view?usp=sharing) ~Norman Lewis
+- [⭐ Better English](https://drive.google.com/file/d/1lXaiCAx_jVfX29OO447FnAvIkcG0jFMy/view?usp=sharing) ~Norman Lewis
 - [How to Prepare for Verbal Ability and Reading Comprehension for CAT](https://drive.google.com/file/d/1qBtdjFsit-0fo861I6qU2hdzJ4lFpgQH/view?usp=drive_link) ~Arun Sharma
 - [Crack the IIM Indore IPM Verbal Ability](https://drive.google.com/file/d/1iKixCuvmMK5xMJbnmAgtlGWgniUug2CN/view?usp=drive_link) ~Pearson
 - [SSC English](https://drive.google.com/file/d/1GIpBxAuv4jzamH5OA5oyM_4RQAHO3tJc/view?usp=drive_link) ~Pearson
