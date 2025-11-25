@@ -33,7 +33,7 @@
 - [The Economist](https://www.economist.com/)
 
 ## Good Reads
-- [Ikigai](https://drive.google.com/file/d/1bffLM_1N_VTWRMbQ0RdhT1jejZBIg_yV/view?usp=drive_link) ~Francesc Miralles and Hector Garcia
-- [The Alchemist](https://drive.google.com/file/d/1Inf-oZvMhHTCusvn2JeBI41j--Fj4ZVP/view?usp=drive_link) ~Paulo Coelho
-- [Doglapan](https://drive.google.com/file/d/18np7w0dG90E5mSYpVmpSK_ZAH-544P0B/view?usp=drive_link) ~Ashneer Grover
-- [Leapfrogging to Pole-Vaulting](https://drive.google.com/file/d/1kNZxiJRAKtOKRENcJs_GtFEAfqH5TcpD/view?usp=drive_link) ~Raghunath Mashelkar and Ravi Pandit
+- [Sapiens: A Breif History of Humankind](https://drive.google.com/file/d/1KLov3v4FE0CFDHMVmDlghgpZwOTgd8L4/view?usp=sharing) ~Yuval Noah Harari
+- [The Selfish Gene](https://drive.google.com/file/d/1RjyHVGJS8l1avLieAyepPg0jvje03xR5/view?usp=sharing) ~Richard Dawkins
+- [To Kill a Mockingbird](https://drive.google.com/file/d/1ZPYoaD9JCZEGHpRksbU2r5HEcbbPGZcE/view?usp=sharing) ~Harper Lee
+- [Afterglow of Creation](https://drive.google.com/file/d/1jgr8ThOqDEpoJFVurCSb2B1RmhumrCIg/view?usp=sharing) ~Marcus Chown
