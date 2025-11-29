@@ -19,7 +19,7 @@
 
 ## Helpful Websites
 - [⭐ Daily RC's (AfterBoards)](https://www.afterboards.in/dailyRC)
-- [⭐ WhatsApp Group for Daily Newspapers](https://chat.whatsapp.com/LPJuVkalxFfEPeaqal6jvX)
+- [⭐ WhatsApp Group for Daily Newspapers](https://chat.whatsapp.com/EnS1va9DzzeAh2WZIihcmo)
 - [Vocabulary.com](https://www.vocabulary.com/)
 - [Aeon Essays](https://aeon.co/essays)
 - [The Baffler](https://thebaffler.com/)
