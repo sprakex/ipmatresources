@@ -10,7 +10,8 @@ Thank you for visiting IPMAT Resources! I value your feedback, suggestions, and 
 
 Join the community forum to discuss preparation strategies, ask questions, and share resources with fellow IPMAT aspirants:
 
-[Community Forum](https://www.reddit.com/r/IPMATtards/)
+- [Community Forum](https://www.reddit.com/r/IPMATtards/)
+- [Discord Server](https://discord.gg/PzG44B3zjF)
 
 ---
 
