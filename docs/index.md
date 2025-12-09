@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: Contact Me
       link: /fbs.md
+    - theme: alt
+      text: Discord Server
+      link: https://discord.gg/PzG44B3zjF
 features:
   - icon: 🔢
     title: Quantitative Ability
