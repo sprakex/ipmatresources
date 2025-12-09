@@ -2,6 +2,8 @@
 
 ## Books/PDFs
 - [⭐ How to Read Better and Faster](https://drive.google.com/file/d/1P_ZPfMn3K9YMx4JVYT8n7vtOoWJR8RxO/view?usp=sharing) ~Norman Lewis
+- [⭐ A Student's Introduction to English Grammar](https://drive.google.com/file/d/1R5K6a_6eN6i72r5alGyy7hnxxSdsjAAk/view?usp=drive_link) ~Rodney Huddleston, Geoffrey Pullum and Brett Reynolds
+- [⭐ The Big Black Book for Idioms and Phrases](https://drive.google.com/file/d/19JEZNt7tiHxg0GK2Zisi-QgsKNDXhtw6/view?usp=drive_link) ~Abhishek Pandey
 - [⭐ Better English](https://drive.google.com/file/d/1lXaiCAx_jVfX29OO447FnAvIkcG0jFMy/view?usp=sharing) ~Norman Lewis
 - [How to Prepare for Verbal Ability and Reading Comprehension for CAT](https://drive.google.com/file/d/1qBtdjFsit-0fo861I6qU2hdzJ4lFpgQH/view?usp=drive_link) ~Arun Sharma
 - [Crack the IIM Indore IPM Verbal Ability](https://drive.google.com/file/d/1iKixCuvmMK5xMJbnmAgtlGWgniUug2CN/view?usp=drive_link) ~Pearson
