@@ -28,7 +28,7 @@ export function baseOptions(): BaseLayoutProps {
         label: "GitHub",
         icon: <RiGithubFill />,
         text: "GitHub",
-        url: "https://github.com/sprakex/ipmatresources",
+        url: "https://github.com/sprakex/ipmat-resources-test",
       },
     ],
   };
