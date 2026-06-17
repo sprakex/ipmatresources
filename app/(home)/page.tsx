@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import treeImage from "@/public/tree-transparent.png";
 
 export default function HomePage() {
   return (
@@ -71,7 +72,7 @@ export default function HomePage() {
 
             <div className="tree-hero" aria-hidden="true">
               <Image
-                src="/tree-transparent.png"
+                src={treeImage}
                 alt=""
                 width={560}
                 height={560}
