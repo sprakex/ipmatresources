@@ -1,35 +1,7 @@
 # IPMAT Resources
 
-A collection of free resources for IPMAT and JIPMAT preparation. Built with Next.js and Fumadocs.
+This repository hosts the files pertaining to the website made for free IPMAT Resources.
 
-## Run locally
+In view of keeping this website updated and relevant, I am very much open to suggestions for adding any resources you might find helpful and might want to share. You can contribute via opening a pull request or simply e-mailing me on the address provided on the website.
 
-```bash
-npm install
-npm run dev
-```
-
-Open http://localhost:3000.
-
-## Build
-
-```bash
-npm run build
-```
-
-Static output goes to `out/`.
-
-## Project structure
-
-| Path | What it is |
-|------|-----------|
-| `content/docs/` | All the resource pages in Markdown |
-| `content/docs/meta.json` | Sidebar navigation config |
-| `app/(home)/` | Landing page |
-| `app/docs/` | Docs layout and page rendering |
-| `lib/transcripts.ts` | Transcript data (not currently linked on site) |
-| `components/` | Reusable UI components |
-
-## Deploy
-
-The site is set up for GitHub Pages. Push to `main` and the GitHub Action in `.github/` handles the rest.
+That's all she wrote. (She was definetly not much of a writer)
