@@ -1,45 +1,35 @@
-# ipmat-resources
+# IPMAT Resources
 
-This is a Next.js application generated with
-[Create Fumadocs](https://github.com/fuma-nama/fumadocs).
+A collection of free resources for IPMAT and JIPMAT preparation. Built with Next.js and Fumadocs.
 
-Run development server:
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-pnpm dev
-# or
-yarn dev
 ```
 
-Open http://localhost:3000 with your browser to see the result.
+Open http://localhost:3000.
 
-## Explore
+## Build
 
-In the project, you can see:
+```bash
+npm run build
+```
 
-- `lib/source.ts`: Code for content source adapter, [`loader()`](https://fumadocs.dev/docs/headless/source-api) provides the interface to access your content.
-- `lib/layout.shared.tsx`: Shared options for layouts, optional but preferred to keep.
+Static output goes to `out/`.
 
-| Route                     | Description                                            |
-| ------------------------- | ------------------------------------------------------ |
-| `app/(home)`              | The route group for your landing page and other pages. |
-| `app/docs`                | The documentation layout and pages.                    |
-| `app/api/search/route.ts` | The Route Handler for search.                          |
+## Project structure
 
-### Fumadocs MDX
+| Path | What it is |
+|------|-----------|
+| `content/docs/` | All the resource pages in Markdown |
+| `content/docs/meta.json` | Sidebar navigation config |
+| `app/(home)/` | Landing page |
+| `app/docs/` | Docs layout and page rendering |
+| `lib/transcripts.ts` | Transcript data (not currently linked on site) |
+| `components/` | Reusable UI components |
 
-A `source.config.ts` config file has been included, you can customise different options like frontmatter schema.
+## Deploy
 
-Read the [Introduction](https://fumadocs.dev/docs/mdx) for further details.
-
-## Learn More
-
-To learn more about Next.js and Fumadocs, take a look at the following
-resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
-  features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [Fumadocs](https://fumadocs.dev) - learn about Fumadocs
+The site is set up for GitHub Pages. Push to `main` and the GitHub Action in `.github/` handles the rest.

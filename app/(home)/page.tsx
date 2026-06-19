@@ -48,44 +48,6 @@ export default function HomePage() {
                 >
                   Browse Resources
                 </Link>
-
-                <Link
-                  href="/docs/what-is-ipmat"
-                  className="
-                    rounded-full
-                    px-8 py-3
-                    border
-                    transition-colors
-                    border-black/10
-                    bg-fd-background/70
-                    dark:border-white/10
-                    hover:bg-black/5
-                    dark:hover:bg-white/5
-                    text-center
-                    backdrop-blur
-                  "
-                >
-                  Get Started
-                </Link>
-
-                <Link
-                  href="/transcripts"
-                  className="
-                    rounded-full
-                    px-8 py-3
-                    border
-                    transition-colors
-                    border-black/10
-                    bg-fd-background/70
-                    dark:border-white/10
-                    hover:bg-black/5
-                    dark:hover:bg-white/5
-                    text-center
-                    backdrop-blur
-                  "
-                >
-                  Transcripts
-                </Link>
               </div>
             </div>
 
