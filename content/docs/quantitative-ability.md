@@ -1,23 +1,35 @@
 ---
 title: Quantitative Ability
-description: Addition and Subtraction type shit
+description: One of the abilities of all time
 ---
 ___
-## Books (Concepts + Question Practice)
+
+## Books + Question Banks
+
 - ⭐ [Quantum CAT](https://files.catbox.moe/2gnp08.pdf) ~Sarvesh Verma
-- ⭐ [How to Prepare for Quantitative Aptitude for CAT](https://files.catbox.moe/mrkvh4.pdf) ~Arun Sharma
-- ⭐ [Takshzila Fundabooks](https://takshzila.com/free-study-material-for-cat-prep/) ~Takshzila
-- [Quantitative Aptitude](https://drive.google.com/file/d/1DTa39YnUUMs4tqSMJzXfuhV0g1GnLQ8p/view?usp=drive_link) ~R S Agarwal
-- [Quantitative Aptitude for CAT](https://drive.google.com/file/d/1DTa39YnUUMs4tqSMJzXfuhV0g1GnLQ8p/view?usp=drive_link) ~Pearson
-- [100 Shortcuts to Crack Quantitative Aptitiude](https://drive.google.com/file/d/1AGS4PKG1PYZjYOD_nvybuG3F2CJ61qja/view?usp=drive_link) ~CN Pragadeeswara Prabhu
-- [Quants 50 Important Formulae](https://drive.google.com/file/d/1sA3RKWBCQx5ba7Me1mCevcA1U_W5cqZu/view?usp=drive_link) ~CatSyllabus.com
-- [Formula Book Unacademy](https://drive.google.com/file/d/1yC1Jm2Rhj_NQtqIBzUynmksYR4-Qf5y6/view?usp=drive_link) ~Arun Sharma
-- [Useful Formulae for IPMAT](https://drive.google.com/file/d/1Ve5A9jQa1_wBhS6106FKJTIbClm4s7k9/view?usp=drive_link) ~iQuanta
+- ⭐ [How to Prepare for Quantitative Ability for CAT](https://files.catbox.moe/mrkvh4.pdf) ~Arun Sharma
+- ⭐ [Quantitative Aptitude for Competitive Examinations](https://files.catbox.moe/nnlt85.pdf) ~R.S. Aggarwal
+- [Takshzila Fundabooks](https://takshzila.com/free-study-material-for-cat-prep/)
+- [Quantitative Aptitude for Bank Exams](https://files.catbox.moe/fflu0w.pdf) ~Ramandeep Singh
+- [Quantitative Aptitude for CAT](https://files.catbox.moe/g797c9.pdf) ~Trishna Knowledge Systems
+- [Quant 50 Important Formulae](https://files.catbox.moe/cirg1a.pdf) ~CATSyllabus.com
+- [The First Six Books of the Elements of Euclid](https://files.catbox.moe/7n6sh5.pdf) ~Euclid
 
+## YouTube Channels
 
-## Youtube Channels
-- ⭐ [Rodha](https://www.youtube.com/@Rodha)
-- ⭐ [Mathological](https://www.youtube.com/@mathological)
-- ⭐ [JEE Nexus (Modern Math)](https://www.youtube.com/@JEEnexus)
-- [MBA Pathshala](https://www.youtube.com/@mba_pathshala)
+- ⭐ [Mathological](https://www.youtube.com/@mathological) - The best there is.
+- [MBA Pathshala](https://www.youtube.com/@MBA_Pathshala)
+- [Rodha](https://www.youtube.com/@Rodha)
+- [CAT Preparation - iQuanta](https://www.youtube.com/@CatpreparationiQuanta)
+- [Cracku - MBA CAT Preparation](https://www.youtube.com/@CrackuInexam)
+- [JEE Nexus](https://www.youtube.com/@JEEnexus)
+  
+## Helpful Websites
 
+- ⭐ [AfterBoards](https://www.afterboards.in) - Obviously.
+- ⭐ [Wumbo](https://wumbo.net/)
+- ⭐ [WolframAlpha](https://www.wolframalpha.com/)
+- ⭐ [Desmos](https://www.desmos.com/)
+- [Pauls Online Math Notes](https://tutorial.math.lamar.edu/)
+- [3Blue1Brown](https://www.3blue1brown.com/)
+- [Awesome Math](https://github.com/rossant/awesome-math)

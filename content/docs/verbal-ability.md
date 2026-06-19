@@ -5,23 +5,23 @@ description: "null"
 ___
 ## Books/PDFs
 
-- ⭐ [Word Power Made Easy](https://drive.google.com/file/d/1GLUliAg4pgx7bqMIJeXknOuqbtP_vkCY/view) ~Norman Lewis
-- ⭐ [A Student's Introduction to English Grammar](https://drive.google.com/file/d/1R5K6a_6eN6i72r5alGyy7hnxxSdsjAAk/view?usp=drive_link) ~Rodney Huddleston, Geoffrey Pullum and Brett Reynolds
-- ⭐ [The Big Black Book for Idioms and Phrases](https://drive.google.com/file/d/19JEZNt7tiHxg0GK2Zisi-QgsKNDXhtw6/view?usp=drive_link) ~Abhishek Pandey
-- [Better English](https://drive.google.com/file/d/1lXaiCAx_jVfX29OO447FnAvIkcG0jFMy/view?usp=sharing) ~Norman Lewis
-- [How to Prepare for Verbal Ability and Reading Comprehension for CAT](https://drive.google.com/file/d/1qBtdjFsit-0fo861I6qU2hdzJ4lFpgQH/view?usp=drive_link) ~Arun Sharma
-- [How to Read Better and Faster](https://drive.google.com/file/d/1P_ZPfMn3K9YMx4JVYT8n7vtOoWJR8RxO/view?usp=sharing) ~Norman Lewis
-- [Crack the IIM Indore IPM Verbal Ability](https://drive.google.com/file/d/1iKixCuvmMK5xMJbnmAgtlGWgniUug2CN/view?usp=drive_link) ~Pearson
-- [SSC English](https://drive.google.com/file/d/1GIpBxAuv4jzamH5OA5oyM_4RQAHO3tJc/view?usp=drive_link) ~Pearson
-- [Verbal Ability and Reading Comprehension for CAT](https://drive.google.com/file/d/1iKixCuvmMK5xMJbnmAgtlGWgniUug2CN/view?usp=drive_link) ~Pearson
-- [Vocabulary Booster for The CAT](https://drive.google.com/file/d/1lhc5BthS-VVyFmJZl8CIXMqpkTl2DFhK/view?usp=drive_link) ~Sidhart Balakrishna
-- [1000 RC's](https://drive.google.com/file/d/1v4GfQNGyMgtqydikiKKTrSYJHK7Uj8EI/view?usp=drive_link) ~unknown
-- [Verbal Ability for the CAT](https://drive.google.com/file/d/1ZhlQo8qlclr4XwBzEK0tpqDMZ2UXJr_S/view?usp=sharing) ~Sujit Kumar
-- [Reading Comprehension for CAT](https://drive.google.com/file/d/18SCDRUDVxMJTWyavrZo18A5Minf4pDTs/view?usp=sharing) ~Sujit Kumar
-- [General English](https://drive.google.com/file/d/16iHLYngsVmagPaE__iYnpM1B3hL-yK72/view?usp=drive_link) ~Dr. B. B. Jain
-- [Complete Guide to GRE Vocabulary](https://drive.google.com/file/d/1Ju8my4sfb3k8HZHeIfhb7HbunkItS7y8/view?usp=sharing) ~Magoosh
-- [800 Essential Words for GRE](https://drive.google.com/file/d/1TSPTuQmVfdnvSt9RikH38FJ2EGffZW_9/view?usp=sharing) ~Barron
-- [3500 Basic Word List in Hindi](https://drive.google.com/file/d/1mKOC4xkbEu4tKA0t6r8-uvrBcMQ_bZ9w/view?usp=sharing) ~Barron
+- ⭐ [Word Power Made Easy](https://files.catbox.moe/rszu5x.pdf) ~Norman Lewis
+- ⭐ [A Student's Introduction to English Grammar](https://files.catbox.moe/hvtapx.pdf) ~Rodney Huddleston, Geoffrey Pullum and Brett Reynolds
+- ⭐ [The Big Black Book for Idioms and Phrases](https://files.catbox.moe/w1nm5m.pdf) ~Abhishek Pandey
+- [Better English](https://files.catbox.moe/xkt6ed.pdf) ~Norman Lewis
+- [How to Prepare for Verbal Ability and Reading Comprehension for CAT](https://files.catbox.moe/i2b75z.pdf) ~Arun Sharma
+- [How to Read Better and Faster](https://files.catbox.moe/5tpg34.pdf) ~Norman Lewis
+- [Crack the IIM Indore IPM Verbal Ability](https://files.catbox.moe/08s7k7.pdf) ~Pearson
+- [SSC English](https://files.catbox.moe/9gadw6.pdf) ~Pearson
+- [Verbal Ability and Reading Comprehension for CAT](https://files.catbox.moe/08s7k7.pdf) ~Pearson
+- [Vocabulary Booster for The CAT](https://files.catbox.moe/ev1768.pdf) ~Sidhart Balakrishna
+- [1000 RC's](https://files.catbox.moe/flynys.pdf) ~unknown
+- [Verbal Ability for the CAT](https://files.catbox.moe/0fmks4.pdf) ~Sujit Kumar
+- [Reading Comprehension for CAT](https://files.catbox.moe/2pf68z.pdf) ~Sujit Kumar
+- [General English](https://files.catbox.moe/mq3998.pdf) ~Dr. B. B. Jain
+- [Complete Guide to GRE Vocabulary](https://files.catbox.moe/gw0nrf.pdf) ~Magoosh
+- [800 Essential Words for GRE](https://files.catbox.moe/p2n7wm.pdf) ~Barron
+- [3500 Basic Word List in Hindi](https://files.catbox.moe/gigarh.pdf) ~Barron
 
 ## Helpful Websites
 - ⭐ [Daily RC's (AfterBoards)](https://www.afterboards.in/dailyRC)
@@ -39,7 +39,7 @@ ___
 - [The Economist](https://www.economist.com/)
 
 ## Good Reads
-- [Sapiens: A Breif History of Humankind](https://drive.google.com/file/d/1KLov3v4FE0CFDHMVmDlghgpZwOTgd8L4/view?usp=sharing) ~Yuval Noah Harari
-- [The Selfish Gene](https://drive.google.com/file/d/1RjyHVGJS8l1avLieAyepPg0jvje03xR5/view?usp=sharing) ~Richard Dawkins
-- [To Kill a Mockingbird](https://drive.google.com/file/d/1ZPYoaD9JCZEGHpRksbU2r5HEcbbPGZcE/view?usp=sharing) ~Harper Lee
-- [Afterglow of Creation](https://drive.google.com/file/d/1jgr8ThOqDEpoJFVurCSb2B1RmhumrCIg/view?usp=sharing) ~Marcus Chown
+- [Sapiens: A Breif History of Humankind](https://files.catbox.moe/yd8esn.pdf) ~Yuval Noah Harari
+- [The Selfish Gene](https://files.catbox.moe/flux2q.pdf) ~Richard Dawkins
+- [To Kill a Mockingbird](https://files.catbox.moe/a807ab.pdf) ~Harper Lee
+- [Afterglow of Creation](https://files.catbox.moe/qbs7ut.pdf) ~Marcus Chown
