@@ -6,14 +6,14 @@ export default function HomePage() {
   return (
     <>
       <section className="home-grid-bg">
-        <div className="relative mx-auto max-w-7xl px-4 pt-14 pb-16 sm:px-6 sm:pt-20 sm:pb-24 lg:px-8">
-          <div className="grid gap-10 lg:grid-cols-[minmax(0,1fr)_28rem] lg:items-center">
+        <div className="relative mx-auto max-w-7xl px-4 pt-10 pb-12 sm:px-6 sm:pt-20 sm:pb-24 lg:px-8">
+          <div className="grid gap-6 sm:gap-10 lg:grid-cols-[minmax(0,1fr)_28rem] lg:items-center">
             <div className="max-w-3xl">
-              <div className="mb-6 inline-flex rounded-full border bg-fd-background/70 px-4 py-2 text-sm text-muted-foreground shadow-sm backdrop-blur">
+              <div className="mb-4 sm:mb-6 inline-flex rounded-full border bg-fd-background/70 px-3 py-1.5 text-xs sm:px-4 sm:py-2 sm:text-sm text-muted-foreground shadow-sm backdrop-blur">
                 100% free forever
               </div>
 
-              <h1 className="text-4xl font-bold tracking-tight sm:text-6xl md:text-7xl">
+              <h1 className="text-3xl font-bold tracking-tight sm:text-6xl md:text-7xl">
                 Everything you need to crack{" "}
                 <span
                   className="
@@ -27,11 +27,11 @@ export default function HomePage() {
                 </span>
               </h1>
 
-              <p className="mt-6 max-w-2xl text-lg leading-8 text-muted-foreground sm:text-xl">
+              <p className="mt-4 sm:mt-6 max-w-2xl text-base leading-7 text-muted-foreground sm:text-xl">
                 For all my self-learners out there.
               </p>
 
-              <div className="mt-10 flex flex-col gap-3 sm:flex-row sm:gap-4">
+              <div className="mt-6 sm:mt-10 flex flex-col gap-3 sm:flex-row sm:gap-4">
                 <Link
                   href="/docs/quantitative-ability"
                   className="
@@ -58,7 +58,7 @@ export default function HomePage() {
                 width={560}
                 height={560}
                 priority
-                className="relative z-10 mx-auto w-[min(72vw,21rem)] lg:w-[25rem]"
+                className="relative z-10 mx-auto w-[min(55vw,21rem)] sm:w-[min(72vw,21rem)] lg:w-[25rem]"
               />
             </div>
           </div>
