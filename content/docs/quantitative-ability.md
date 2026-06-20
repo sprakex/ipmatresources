@@ -26,8 +26,6 @@ ___
 - [Cracku MBA CAT Preparation](https://www.youtube.com/@CrackuInexam)
 - [JEE Nexus](https://www.youtube.com/@JEEnexus)
 - [Unacademy CAT](https://www.youtube.com/@UnacademyCAT)
-- [CareerRide](https://www.youtube.com/@CareerRide)
-- [Study Glow](https://www.youtube.com/@StudyGlow)
 - [IPM Careers](https://www.youtube.com/@IPMCareers)
 - [2IIM CAT](https://www.youtube.com/@2IIMCAT)
 

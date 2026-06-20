@@ -12,7 +12,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://sprakex.github.io/ipmat-resources-test'),
+  metadataBase: new URL('https://sprakex.github.io/ipmatresources'),
   title: {
     default: appName,
     template: `%s | ${appName}`,

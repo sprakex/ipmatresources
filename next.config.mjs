@@ -2,7 +2,7 @@ import { createMDX } from 'fumadocs-mdx/next';
 
 const withMDX = createMDX();
 const isGitHubActions = process.env.GITHUB_ACTIONS === 'true';
-const repoName = 'ipmat-resources-test';
+const repoName = 'ipmatresources';
 
 /** @type {import('next').NextConfig} */
 const config = {
